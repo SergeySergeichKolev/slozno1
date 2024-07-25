@@ -1,0 +1,6 @@
+::root{
+  --main-color: #f1b2ce;
+  --background-color: #ff0070;
+  --nav-title: #ff0070;
+  --header-image: url(../images/cover-image-dark.png);
+}
