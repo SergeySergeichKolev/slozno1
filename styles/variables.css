@@ -1,6 +1,13 @@
-::root{
-  --main-color: #f1b2ce;
-  --background-color: #ff0070;
-  --nav-title: #ff0070;
-  --header-image: url(../images/cover-image-dark.png);
+
+
+.page.theme_auto{
+  --main-color:#f1b2ce;
+  --background-color:#fc4445;
+  --nav-title:#ff0070;
+  --header-image:url(../images/cover-image-dark.png);
+  --header-group:#FF0070;
+  --background-site:#000028;
+  --header-title:#3f3336;
+  --text-color:#f1b2ce;
+  --article-color:#FF0070;
 }
